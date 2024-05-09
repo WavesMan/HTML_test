@@ -18,7 +18,7 @@ body {
   }
 
   header a {
-    color: yellow;
+    color: rgb(255, 0, 0);
     text-decoration: none;
   }
   
@@ -43,10 +43,10 @@ body {
   }
 
   footer a {
-    color: yellow;
+    color: rgb(255, 0, 0);
     text-decoration: none;
   }
 
 a {
-    color: #ffff00b9; /* 设置链接高亮字体颜色为黄色 */
+    color: #ff0000; /* 设置链接高亮字体颜色为黄色 */
 }
